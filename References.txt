@@ -1,0 +1,17 @@
+Julia Konopka 
+
+References - Project #1
+
+Previous Homework Assignments
+
+ChatGPT and CoPilot for error handling 
+
+I made a login/register pages  for an app in Swift last semester in Database Systems with Dr. Herbert, I took those pages and tried to convert them from Swift to Kotlin (I kept the some names of my files), however it didn't go perfect, so I had to use additional websites and videos to fix and verify setup along with ChatGPT and CoPilot.  
+
+I used Firebase Authenticator last semester with that project, so I tried it again using Android instead of Apple. It works relatively the same.
+
+Used my previous Type.kt and Color.kt (I prefer to have purple when I can)
+
+
+
+
